@@ -4,10 +4,15 @@
 This project Completed in SQL using MySQL Workbech. 
 
 Some of the key concepts learned - 
+
 -> Importing dataset from flat file / CSV.
+
 -> Data retrieve with text and numeric queries.
+
 -> JOINS: LEFT, RIGHT, FULL.
+
 -> Common Table Expressions (CTEs).
+
 
 Here are some key takeaways from this project:
 
