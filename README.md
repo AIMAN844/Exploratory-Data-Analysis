@@ -1,4 +1,6 @@
 #Project Detail
+
+
 This project Completed in SQL using MySQL Workbech. 
 
 Some of the key concepts learned - 
